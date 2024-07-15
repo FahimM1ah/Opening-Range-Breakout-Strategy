@@ -1,0 +1,12 @@
+C:\Users\nword\Documents\cAlgo\Sources\Robots\ORB\ORB\bin\Debug\net6.0\ORB.deps.json
+C:\Users\nword\Documents\cAlgo\Sources\Robots\ORB\ORB\bin\Debug\net6.0\ORB.dll
+C:\Users\nword\Documents\cAlgo\Sources\Robots\ORB\ORB\bin\Debug\net6.0\ORB.pdb
+C:\Users\nword\Documents\cAlgo\Sources\Robots\ORB\ORB\obj\Debug\net6.0\ORB.csproj.AssemblyReference.cache
+C:\Users\nword\Documents\cAlgo\Sources\Robots\ORB\ORB\obj\Debug\net6.0\ORB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nword\Documents\cAlgo\Sources\Robots\ORB\ORB\obj\Debug\net6.0\ORB.AssemblyInfoInputs.cache
+C:\Users\nword\Documents\cAlgo\Sources\Robots\ORB\ORB\obj\Debug\net6.0\ORB.AssemblyInfo.cs
+C:\Users\nword\Documents\cAlgo\Sources\Robots\ORB\ORB\obj\Debug\net6.0\ORB.csproj.CoreCompileInputs.cache
+C:\Users\nword\Documents\cAlgo\Sources\Robots\ORB\ORB\obj\Debug\net6.0\ORB.dll
+C:\Users\nword\Documents\cAlgo\Sources\Robots\ORB\ORB\obj\Debug\net6.0\refint\ORB.dll
+C:\Users\nword\Documents\cAlgo\Sources\Robots\ORB\ORB\obj\Debug\net6.0\ORB.pdb
+C:\Users\nword\Documents\cAlgo\Sources\Robots\ORB\ORB\obj\Debug\net6.0\ref\ORB.dll
